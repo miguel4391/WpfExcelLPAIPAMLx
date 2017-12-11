@@ -1,0 +1,14 @@
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\bin\Debug\WpfExcelLPAIPAMLx.exe.config
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\bin\Debug\WpfExcelLPAIPAMLx.exe
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\bin\Debug\WpfExcelLPAIPAMLx.pdb
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.csprojResolveAssemblyReference.cache
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\MainWindow.baml
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\MainWindow.g.cs
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\App.g.cs
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx_MarkupCompile.cache
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.g.resources
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.Properties.Resources.resources
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.csproj.GenerateResource.Cache
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.csproj.CoreCompileInputs.cache
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.exe
+c:\users\200010122\documents\visual studio 2017\Projects\WpfExcelLPAIPAMLx\WpfExcelLPAIPAMLx\obj\Debug\WpfExcelLPAIPAMLx.pdb
